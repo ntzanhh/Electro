@@ -101,7 +101,7 @@ ul, ol {
   font-weight: 700;
   text-align: center;
   -webkit-transition: 0.2s all;
-  transition: 0.2s all;
+  transition: 0.3s all;
 }
 
 .primary-btn:hover, .primary-btn:focus {
